@@ -1,0 +1,20 @@
+body {
+    background-color: #510333;
+}
+
+main {
+
+    margin-top: 50px;
+    padding-top: 50px;
+    background-color: #aae5ff;
+    width: 500px !important;
+}
+
+.row {
+    padding: 0 15px 0 15px;
+}
+
+#labelForColor {
+    width: 300px;
+    margin: auto;
+}
